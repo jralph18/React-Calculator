@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React-Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A calculator built with React, JS, HTML, and CSS. Performs basic calculator functions (+, -, *, /) in addition to calculating percentages (%) and handling positive/negative toggling (+/-). 
 
 ## Available Scripts
 
