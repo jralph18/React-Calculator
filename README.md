@@ -5,5 +5,5 @@ A calculator built with React, JS, HTML, and CSS. Performs basic calculator func
 ## App
 
 Default calculator view on app start.
-![Image of calculator home](https://github.com/jralph18/React-Calculator/images/calculator-home.png)
+![Image of calculator home](/images/calculator-home.png)
 
